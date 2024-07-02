@@ -1,0 +1,11 @@
+numpy
+jupyterlab
+lmfit
+matplotlib
+nose2
+pandas
+SBMLDiagrams
+scikit-learn
+seaborn
+tellurium
+pypesto
